@@ -1,0 +1,4 @@
+echo 1;
+cat 5;
+
+echo $1;
